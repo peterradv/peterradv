@@ -19,5 +19,5 @@ Hi there, I'm Peter (he/him) 👋
 
 ## 🤝🏻 Connect with me: 
 
-<a href="https://www.linkedin.com/in/peterradvanyi/"><img align="left" src="https://raw.githubusercontent.com/peterradv/peterradv/main/linkedin.png" alt="Peter Radvanyi | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/peterradv"><img align="left" src="https://raw.githubusercontent.com/peterradv/peterradv/main/twitter.png" alt="Peter Radvanyi | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/peterradvanyi/"><img align="left" src="https://github.com/peterradv/peterradv/blob/main/linkedin.png" width="21px"/></a>
+<a href="https://twitter.com/peterradv"><img align="left" src="https://github.com/peterradv/peterradv/blob/main/twitter.png" width="21px"/></a>
