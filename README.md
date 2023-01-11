@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">
+Hi there, I'm Peter (he/him) 👋
+</h1>
 
-<!--
-**peterradv/peterradv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+🎓 PhD student in statistics at the University of Glasgow
+</h2>
 
-Here are some ideas to get you started:
+## 👨🏻‍🎓 About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍳 My research focuses on the spatiotemporal optimization of groundwater quality monitoring networks
+- 💡 I'm interested in environmental statistics, hydrology and hydrogeology
+
+## ✍🏻 I'm currently working on:
+
+- Well Influence Analysis for Monitoring Network Optimization
+- Improving my programming skills
+- R | Python | TeX
+
+## 🤝🏻 Connect with me: 
+
+<a href="https://www.linkedin.com/in/peterradvanyi/"><img align="left" src="https://raw.githubusercontent.com/peterradv/peterradv/main/linkedin.png" alt="Peter Radvanyi | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/peterradv"><img align="left" src="https://raw.githubusercontent.com/peterradv/peterradv/main/twitter.png" alt="Peter Radvanyi | Twitter" width="21px"/></a>
