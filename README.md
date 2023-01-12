@@ -1,10 +1,8 @@
-<h2 align="center">
-Hi there, I'm Peter (he/him) 👋
-</h2>
+![waves_banner](https://user-images.githubusercontent.com/85235934/212193535-dc47623b-38f6-4e21-9970-6a439f74db3d.png)
 
-<h3 align="center">
-🎓 PhD student in statistics at the University of Glasgow
-</h3>
+### 👋 Hi there, I'm Peter (he/him)
+
+- 🎓 I'm a PhD student in statistics at the University of Glasgow
 
 ### 👨🏻‍🎓 About me:
 
@@ -19,6 +17,7 @@ Hi there, I'm Peter (he/him) 👋
 
 ### 🤝🏻 Connect with me: 
 
-<a href="https://www.linkedin.com/in/peterradvanyi/"><img align="left" src="https://github.com/peterradv/peterradv/blob/main/linkedin.png" width="21px"/></a>
+- <a href="https://www.linkedin.com/in/peterradvanyi/"><img align="left" src="https://github.com/peterradv/peterradv/blob/main/linkedin.png" width="21px"/></a>
 <a href="https://twitter.com/peterradv"><img align="left" src="https://github.com/peterradv/peterradv/blob/main/twitter.png" width="21px"/></a>
+
 </br>
