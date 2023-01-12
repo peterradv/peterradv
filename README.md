@@ -22,7 +22,3 @@ Hi there, I'm Peter (he/him) 👋
 <a href="https://www.linkedin.com/in/peterradvanyi/"><img align="left" src="https://github.com/peterradv/peterradv/blob/main/linkedin.png" width="21px"/></a>
 <a href="https://twitter.com/peterradv"><img align="left" src="https://github.com/peterradv/peterradv/blob/main/twitter.png" width="21px"/></a>
 </br>
-
-### 📈 Language Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterradv&layout=compact)](https://github.com/peterradv)
