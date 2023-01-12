@@ -13,7 +13,7 @@ Hi there, I'm Peter (he/him) 👋
 
 ### ✍🏻 I'm currently working on:
 
-- Well Influence Analysis for Monitoring Network Optimization
+- Well Influence Analysis for groundwater quality monitoring network optimization
 - Improving my programming skills
 - R | Python | TeX
 
