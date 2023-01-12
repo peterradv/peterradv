@@ -7,7 +7,7 @@
 ### 👨🏻‍🎓 About me:
 
 - 🍳 My research focuses on the spatiotemporal optimization of groundwater quality monitoring networks
-- 💡 I'm interested in environmental science, hydrogeology and statistics
+- 💡 I'm interested in environmental data science, statistics and hydrogeology
 
 ### ✍🏻 I'm currently working on:
 
