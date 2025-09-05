@@ -1,4 +1,4 @@
-![waves_banner](https://user-images.githubusercontent.com/85235934/212193535-dc47623b-38f6-4e21-9970-6a439f74db3d.png)
+![waves_banner](https://github.com/peterradv/peterradv/blob/19bf0ff219517207b2dae268c67a5bd028f515c8/waves%20bannerV2.jpg)
 
 ### 👋 Hi there, I'm Peter (he/him)
 
