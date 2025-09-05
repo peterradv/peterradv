@@ -2,22 +2,21 @@
 
 ### 👋 Hi there, I'm Peter (he/him)
 
-- 🎓 I'm a PhD student in statistics at the University of Glasgow
+- 🎓 I'm a researcher with a background in environmental science and statistics
 
 ### 👨🏻‍🎓 About me:
 
-- 🍳 My research focuses on the spatiotemporal optimization of groundwater quality monitoring networks
+- 🍳 My research focuses on statistical modeling and optimization of groundwater monitoring networks
 - 💡 I'm interested in environmental data science, statistics and hydrogeology
 
 ### ✍🏻 I'm currently working on:
 
-- Well Influence Analysis for groundwater quality monitoring network optimization
+- Well Influence Analysis for groundwater quality monitoring optimization
 - Improving my programming skills
 - R | Python | TeX
 
 ### 🤝🏻 Connect with me: 
 
 - <a href="https://www.linkedin.com/in/peterradvanyi/"><img align="left" src="https://github.com/peterradv/peterradv/blob/main/linkedin.png" width="21px"/></a>
-<a href="https://twitter.com/peterradv"><img align="left" src="https://github.com/peterradv/peterradv/blob/main/twitter.png" width="21px"/></a>
 
 </br>
